@@ -30,6 +30,9 @@
 /* MOBILE */
 @media all and (max-width: 767px) {
   /* coumuni */
+  body{
+    background-color: #126f13;
+  }
   img{
     height: 100px;
   }
@@ -112,6 +115,9 @@
 /* TABLET */
 @media all and (min-width: 768px) and (max-width: 991px) {
   /* coumuni */
+  body{
+    background-color: #f1a11d;
+  }
   img{
     height: 150px;
   }
@@ -194,6 +200,9 @@
 /* DESKTOP */
 @media all and (min-width: 992px) {
   /* coumuni */
+  body{
+    background-color: #6ccfdc;
+  }
   img{
     height: 200px;
   }
