@@ -1,0 +1,21 @@
+#lezioni {
+  text-align: center;
+  }
+
+#steps {
+  text-align: center;
+}
+
+#why {
+  text-align: center;
+}
+
+.row{
+  margin-bottom: 30px;
+}
+
+#why .row img {
+  background-color: #428bca;
+  border-radius: 50%;
+  padding: 30px
+}
